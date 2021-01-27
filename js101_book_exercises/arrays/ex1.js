@@ -16,4 +16,4 @@ array5[100] = 3;
 // array2 : 5
 // array3 : 0
 // array4 : 3
-// array5 : 100
+// array5 : 101
