@@ -5,3 +5,6 @@ let numbers3 = [2, 4, 6, 8];
 console.log(numbers1.includes(3));
 console.log(numbers2.includes(3));
 console.log(numbers3.includes(3));
+console.log(numbers3.includes('3'));
+console.log(numbers3.includes(33));
+console.log(numbers3.includes(98));
