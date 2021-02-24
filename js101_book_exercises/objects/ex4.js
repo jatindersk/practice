@@ -5,5 +5,4 @@ let obj = {
 };
 
 let keysArr = Object.keys(obj);
-
 console.log(keysArr.map(el => el.toUpperCase()));
